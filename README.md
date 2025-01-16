@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielbotcherby
 - 👀 I’m interested in mobile app development and product management.
-- 🌱 I’m currently learning SQL
+- 🌱 Always learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me: daniel@kalda.co
 
